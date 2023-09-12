@@ -2,8 +2,8 @@ import React from "react"
 
 function Info() {
     return (
-        <div className="about-container">
-            <img className="about-image" src={require("../images/profile-pic-one.jpg")}
+        <div className="info-container">
+            <img className="info-image" src={require("../images/profile-pic-one.jpg")}
                 alt="Gabe Hollifield"></img>
             <h2>Gabe Hollifield</h2>
             <h3>Frontend Developer</h3>

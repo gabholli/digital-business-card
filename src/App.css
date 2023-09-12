@@ -12,41 +12,40 @@ body {
 }
 
 .main-container {
-  height: 780px;
   background-color: #1A1B21;
   width: 317px;
   margin: 0 auto;
 }
 
-.about-container {
+.info-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.about-image {
+.info-image {
   height: 317px;
   width: 317px;
   object-fit: cover;
   border-radius: 10px 10px 0px 0px;
 }
 
-.about-container>h2,
-.about-container>h3,
-.about-container>a {
+.info-container>h2,
+.info-container>h3,
+.info-container>a {
   line-height: normal;
   font-style: normal;
 }
 
-.about-container>h2 {
+.info-container>h2 {
   color: #FFF;
   font-size: 1.5625rem;
   font-weight: 700;
   margin: .75em 0 0 0;
 }
 
-.about-container>h3 {
+.info-container>h3 {
   color: #F3BF99;
   font-size: 0.75rem;
   font-weight: 400;
@@ -54,7 +53,7 @@ body {
   margin-top: .2em;
 }
 
-.about-container>a {
+.info-container>a {
   color: #F5F5F5;
   font-size: 0.625rem;
   font-weight: 400;
@@ -101,4 +100,16 @@ body {
 .linkedin-logo {
   width: 16px;
   height: 16px;
+}
+
+.about-container {
+  height: 399px;
+  /* background-color: yellow; */
+}
+
+.footer-container {
+  border-radius: 0px 0px 10px 10px;
+  background: #161619;
+  display: inline-block;
+  width: 100%;
 }
