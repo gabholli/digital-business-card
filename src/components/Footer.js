@@ -3,7 +3,10 @@ import React from "react"
 function Footer() {
     return (
         <div className="footer-container">
-            <h1>Test</h1>
+            <img className="footer-icon"></img>
+            <img className="footer-icon"></img>
+            <img className="footer-icon"></img>
+            <img className="footer-icon"></img>
         </div>
     )
 }
