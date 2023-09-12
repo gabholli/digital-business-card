@@ -6,6 +6,7 @@ function App() {
     <div>
       <h1>Gabe's Test</h1>
       <h2>To Be Filled Later</h2>
+      <h3>Enter text here</h3>
     </div>
   )
 }
