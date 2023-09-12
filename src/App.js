@@ -1,14 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import Info from './components/Info';
+import React from "react"
+import ReactDOM from "react-dom/client"
 
 function App() {
   return (
-    <div>
-      <h1>Gabe's Test</h1>
-      <h2>To Be Filled Later</h2>
-      <h3>Enter text here</h3>
+    <div className="main-container">
+      <Info />
     </div>
   )
 }
+
+const root = ReactDOM.createRoot(document.getElementById("root"))
+root.render(<App />)
 
 export default App;
