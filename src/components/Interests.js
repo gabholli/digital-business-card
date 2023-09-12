@@ -4,9 +4,9 @@ function Interests() {
     return (
         <section>
             <h2>Interests</h2>
-            <p>Food expert. Music scholar. Reader.
-                Internet fanatic. Bacon buff. Entrepreneur.
-                Travel geek. Pop culture ninja. Coffee fanatic.</p>
+            <p>I love to play video games, read, go hiking
+                and work on computers and personal
+                projects.</p>
         </section>
     )
 }

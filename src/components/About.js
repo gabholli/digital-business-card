@@ -3,11 +3,13 @@ import React from "react"
 function About() {
     return (
         <section>
-            <h2>Test</h2>
-            <p>I am a frontend developer with a particular interest
-                in making things simple and automating daily tasks.
-                I try to keep up with security and best practices,
-                and am always looking for new things to learn.</p>
+            <h2>About</h2>
+            <p>I am a web development intern particularly
+                interested in learning React so I can become
+                a front-end web developer. I graduated from
+                college last year and currently work al
+                Mindhome, a company endeavoring to lead
+                the way in robots that work in the home.</p>
         </section>
     )
 }
