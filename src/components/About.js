@@ -6,7 +6,7 @@ function About() {
             <h2>About</h2>
             <p>I am a web development intern particularly
                 interested in learning React so I can become
-                a front-end web developer. I graduated from
+                a frontend web developer. I graduated from
                 college last year and currently work al
                 Mindhome, a company endeavoring to lead
                 the way in robots that work in the home.</p>
