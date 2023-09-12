@@ -146,3 +146,12 @@ body {
   height: 25px;
   width: 25px;
 }
+
+@media (min-width: 1440px) {
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+}
