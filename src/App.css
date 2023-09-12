@@ -146,4 +146,19 @@ body {
   height: 25px;
   width: 25px;
 }
+
+@media (min-width: 1440px) {
+  body {
+    padding: 100px 0;
+  }
+
+}
+
+@media (min-width: 2560px) {
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
 }
