@@ -29,7 +29,7 @@ body {
   height: 317px;
   width: 317px;
   object-fit: cover;
-  /* border-radius: 10px; */
+  border-radius: 10px 10px 0px 0px;
 }
 
 .info-container>h2,
